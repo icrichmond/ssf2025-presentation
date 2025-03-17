@@ -35,50 +35,6 @@ nationaux](https://changingclimate.ca/national-issues/fr/)](presentation_imgs/pa
 :::
 
 
-## L'étude de cas des ruelles vertes
-
-::: columns
-::: {.column width="60%"}
--   Augmenter la biodiversité
-
--   Augmenter la connectivité écologique
-
--   Réduire l'effet des îlots de chaleur
-
--   Améliorer la qualité de l'air
-
--   Fournissent des habitats pour des petits mammifères, des oiseaux et
-    des insectes
-:::
-
-::: {.column width="40%"}
-::: {layout="[[-1], [1], [-1]]"}
-![](presentation_imgs/ecoquartiers.png){fig-align="left"}
-:::
-:::
-:::
-::: notes
--   On peut utiliser des ruelles vertes comme une étude de cas du
-    discours populaire et des tendances autour de l'infrastructure verte
--   Ruelles vertes sont interessantes parce qu'elles nous donne une
-    possibilité de verdir dans les villes assez denses. En général,
-    elles ont aimé de ses résidents et leur popularité augmente autour
-    du monde
--   De plus, il y a un discours populaire associée à les ruelles vertes.
-    Par exemple, le regroupement des éco quartiers est un organisme qui
-    gère le programme des ruelles vertes à Montréal. Sur leur site web,
-    la liste des bénéfices produisent par les ruelles vertes est longue
-    et elle inclut des choses comme:
-    -   augmenter la biodiversité
-    -   augmenter la connectivité écologique
-    -   réduire l'effet des îlots de chaleur
-    -   améliorer la qualité de l'air
-    -   fournissent des habitats pour des petits mammifères, des oiseaux
-        et des insectes
--   Mais maintenant on sait pas exactement les avantages et désavantages
-    des ruelles vertes dans la majorité des projets
-:::
-
 ## Nos questions de recherche
 
 ::: columns
@@ -99,10 +55,10 @@ nationaux](https://changingclimate.ca/national-issues/fr/)](presentation_imgs/pa
 
 
 
+## Échantillonnage des arbres et données écologiques{.smaller}
 
-## L'analyse des bénéfices
+![](presentation_imgs/studymap.png){fig-align="center"}
 
-![](presentation_imgs/analysis_model.png){fig-align="center"}
 
 ::: notes
 -   De répondre à nos questions, on a enchantillonné des données
