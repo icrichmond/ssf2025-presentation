@@ -4,7 +4,7 @@ author: "Isabella C. Richmond, Kayleigh Hutt-Taylor, Johanna Arnet, Lauren Bianc
 title-slide-attributes:
   data-background-image: /presentation_imgs/image832.png
   data-background-opacity: "0.65"
-  data-notes: "Allo, je suis Bella et je fais ma doctorante à l'Université de Concordia. Aujourd'hui je vous présente une partie de mon doc, en collaboration avec mes collègues a UQAM, Respire, et UdeM qui s'appelle « Les ruelles vertes du Québec et leurs bénéfices écologiques : les liens entre la variation des bénéfices et l'aménagement et la gestion des ruelles »"
+  data-notes: "Allo, je suis Bella et je fais mon doc à l'Université de Concordia. Aujourd'hui je vous présente une partie de mon doc, où on a étudé les bénéfices des ruelles vertes au Québec"
 format: 
   revealjs:
     theme: simple
@@ -20,18 +20,18 @@ editor:
 nationaux](https://changingclimate.ca/national-issues/fr/)](presentation_imgs/parkbenefits_fr.png)
 
 ::: notes
--   La majorité des projets qui incorporent l'infrastructure verte avoir
-    un discours populaire autour de lui
--   Les bénéfices qu'il prétend sont divers : l'infrastructure verte a
-    des avantages pour la biodiversité, il augmente la résilience de nos
-    villes, il change la cohésion sociale de nos quartiers, etc
+-   L'infrastructure verte est plus en plus populaire dans nos politiques 
+-   Il y a beaucoup de discours populaires qui circulent au sujet de l'infrastructure verte. 
+-   Les bénéfices des infrastructures vertes sont divers :  elle a
+    des avantages pour la biodiversité, elle augmente la résilience de nos
+    villes, elle influence la cohésion sociale de nos quartiers, etc
 -   C'est sûr que plusieurs bénéfices dans le discours ou possiblement
-    tous de ces bénéfices sont vrai dans les projets divers mais souvent
-    elles ne sont pas interrogées
+    tous de ces bénéfices sont réels dans les projets divers mais souvent
+    ils ne sont pas investigués
 -   A cause de ça, on sait pas quelles sont les infrastructures vertes
     qui fournissent chaque bénéfice, et quel type d'aménagement peut
     maximiser la fourniture des bénéfices
--   Ce manque dans la recherche est à l'origine de notre projet
+-   Cette lacune dans la recherche est à l'origine de notre projet
 :::
 
 
@@ -53,7 +53,11 @@ nationaux](https://changingclimate.ca/national-issues/fr/)](presentation_imgs/pa
 :::
 :::
 
+::: notes
+- on a utilisé des ruelles vertes comme une étude de cas
+- on a posé deux questions de recherce
 
+:::
 
 ## Échantillonnage des données écologiques{.smaller}
 
@@ -61,21 +65,12 @@ nationaux](https://changingclimate.ca/national-issues/fr/)](presentation_imgs/pa
 
 
 ::: notes
--   De répondre à nos questions, on a enchantillonné des données
+-   Pour répondre à nos questions, on a échantillonné des données
     écologiques dans les ruelles vertes de deux villes: Montréal et
     Trois-Rivières.
--   À Montréal on a enchantilloné les ruelles vertes à seulement une
-    arrondissement -- Villeray Saint Michel Parc Extension. À TR, le
-    programme des ruelles vertes est plus neuf donc elle a 13 ruelles
-    vertes en totale, et on a enchantillonné toutes.
--   À chaque ville, on a enchantilloné des ruelles vertes, des ruelles
-    traditionelles, et des segments de rue avoisinné
--   À chaque site, on a fait des mesures écologique, comme le
-    température de l'air, la complexité de la végétation, une inventaire
-    des arbres, on a mesuré le présence des lucioles et nos
-    collaborateurs à UdeM a fait une inventaire total de la végétation
--   Tous ces mesures a été pris en 2023
--   Pour nos analyses, on retourne aux deux categories des bénéfices -
+-   À Montréal le programme de ruelles vertes est dirigé par les residents. Par contre, à TR, le programme est dirigé par la ville 
+-   On a fait une inventaire d'arbres dans chaque ruelle verte et ruelle grise qu'on a selectionné 
+-   Pour nos analyses, on a utilisé deux categories des bénéfices -
     Premièrement, on va analyser des bénéfices écologiques qui sont
     fournir par les ruelles vertes - ce catégorie est plus comme un
     analyse écologique « classique » où on evalue si les ruelles vertes
@@ -100,12 +95,22 @@ nationaux](https://changingclimate.ca/national-issues/fr/)](presentation_imgs/pa
 
 ![](presentation_imgs/ecobens.png){fig-align="center"}
 
+::: notes
+-   on voit que les ruelles vertes en général ont des niveaux similaires ou superieurs de soutien de la biodiversité
+-   tous les fleches ici sont vertes, ca indique que le niveaux de soutien de la biodiversité est plus haut dans ruelles vertes que ruelles grises 
+-   on a une exception, qui est la couverture de la canopée à Montréal 
+:::
 
 ##
 
 **Les ruelles vertes présentent des niveaux similaires ou inférieurs de services écosystémiques que les ruelles grises**
 
 ![](presentation_imgs/ecoservs.png){fig-align="center"}
+
+::: notes
+
+
+:::
 
 ##  {background-image="presentation_imgs/dogwood.png"}
 
@@ -130,10 +135,10 @@ nationaux](https://changingclimate.ca/national-issues/fr/)](presentation_imgs/pa
 
 ::: notes
 - Quelques enseignements tirés de notre travail : 
-- Il est certain que les allées vertes présentent des avantages importants, dont certains ont été mesurés dans notre étude, mais dont beaucoup n'ont pas été mesurés. 
-- Toutes les ruelles n'offrent pas le même niveau ou le même type d'avantages, et une gestion différente produit des résultats différents.
-- Les ruelles de Montréal présentent des niveaux plus variables des avantages que nous avons mesurés, mais aussi parce qu'elles sont dirigées par les résidents, elles sont beaucoup plus adaptables aux besoins de la communauté.
-- En revanche, les ruelles vertes de TR présentent beaucoup moins de variations, mais ne peuvent pas s'adapter aux besoins de leur communauté. 
-- Enfin, à l'heure actuelle, nous constatons que nos allées présentent des niveaux plus élevés de soutien à la biodiversité que de services écosystémiques lorsqu'il s'agit des avantages liés aux arbres. 
+- Il est certain que les ruelles vertes présentent des bénéfices importants, dont certains ont été mesurés dans notre étude, mais dont beaucoup n'ont pas été mesurés. 
+- Toutes les ruelles n'offrent pas le même niveau ou le même type de bénéfices, et une gestion différente produit des résultats différents.
+- Les ruelles de Montréal présentent des niveaux plus variables des bénéfices que nous avons mesurés, mais aussi parce qu'elles sont gérées par les résidents, elles sont beaucoup plus adaptables aux besoins de la communauté.
+- Par contre, les ruelles vertes de TR présentent moins de variations, mais ne peuvent pas s'adapter aux besoins de leur communauté. 
+- Enfin, à l'heure actuelle, nous constatons que nos ruelles présentent des niveaux plus élevés de soutien à la biodiversité que de services écosystémiques lorsqu'il s'agit des avantages liés aux arbres. 
 
 :::
