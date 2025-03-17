@@ -1,0 +1,7 @@
+project:
+  title: "Presentation QCBS 2025"
+  type: website
+  output-dir: docs
+
+
+from: markdown+emoji

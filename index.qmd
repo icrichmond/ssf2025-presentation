@@ -1,0 +1,183 @@
+---
+title: "Les ruelles vertes du Québec et leurs bénéfices écologiques"
+author: "Isabella C. Richmond, Kayleigh Hutt-Taylor, Johanna Arnet, Lauren Bianco, Antonia Vieira Zanella, Carly D. Ziter"
+title-slide-attributes:
+  data-background-image: /presentation_imgs/image832.png
+  data-background-opacity: "0.65"
+  data-notes: "Allo, je suis Bella et je fais ma doctorante à l'Université de Concordia. Aujourd'hui je vous présente une partie de mon doc, en collaboration avec mes collègues a UQAM, Respire, et UdeM qui s'appelle « Les ruelles vertes du Québec et leurs bénéfices écologiques : les liens entre la variation des bénéfices et l'aménagement et la gestion des ruelles »"
+format: 
+  revealjs:
+    theme: simple
+    slide-number: c
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Le discours populaire des infrastructures vertes
+
+![[Le rapport sur les enjeux
+nationaux](https://changingclimate.ca/national-issues/fr/)](presentation_imgs/parkbenefits_fr.png)
+
+::: notes
+-   La majorité des projets qui incorporent l'infrastructure verte avoir
+    un discours populaire autour de lui
+-   Les bénéfices qu'il prétend sont divers : l'infrastructure verte a
+    des avantages pour la biodiversité, il augmente la résilience de nos
+    villes, il change la cohésion sociale de nos quartiers, etc
+-   C'est sûr que plusieurs bénéfices dans le discours ou possiblement
+    tous de ces bénéfices sont vrai dans les projets divers mais souvent
+    elles ne sont pas interrogées
+-   A cause de ça, on sait pas quelles sont les infrastructures vertes
+    qui fournissent chaque bénéfice, et quel type d'aménagement peut
+    maximiser la fourniture des bénéfices
+-   Ce manque dans la recherche est à l'origine de notre projet
+:::
+
+
+## L'étude de cas des ruelles vertes
+
+::: columns
+::: {.column width="60%"}
+-   Augmenter la biodiversité
+
+-   Augmenter la connectivité écologique
+
+-   Réduire l'effet des îlots de chaleur
+
+-   Améliorer la qualité de l'air
+
+-   Fournissent des habitats pour des petits mammifères, des oiseaux et
+    des insectes
+:::
+
+::: {.column width="40%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](presentation_imgs/ecoquartiers.png){fig-align="left"}
+:::
+:::
+:::
+::: notes
+-   On peut utiliser des ruelles vertes comme une étude de cas du
+    discours populaire et des tendances autour de l'infrastructure verte
+-   Ruelles vertes sont interessantes parce qu'elles nous donne une
+    possibilité de verdir dans les villes assez denses. En général,
+    elles ont aimé de ses résidents et leur popularité augmente autour
+    du monde
+-   De plus, il y a un discours populaire associée à les ruelles vertes.
+    Par exemple, le regroupement des éco quartiers est un organisme qui
+    gère le programme des ruelles vertes à Montréal. Sur leur site web,
+    la liste des bénéfices produisent par les ruelles vertes est longue
+    et elle inclut des choses comme:
+    -   augmenter la biodiversité
+    -   augmenter la connectivité écologique
+    -   réduire l'effet des îlots de chaleur
+    -   améliorer la qualité de l'air
+    -   fournissent des habitats pour des petits mammifères, des oiseaux
+        et des insectes
+-   Mais maintenant on sait pas exactement les avantages et désavantages
+    des ruelles vertes dans la majorité des projets
+:::
+
+## Nos questions de recherche
+
+::: columns
+::: {.column width="50%"}
+::: incremental
+1.  Est-ce que les ruelles vertes fournissent plus du **soutien de la
+    biodiversité** que les ruelles grises et les rues ?
+
+2.  Est-ce que les ruelles vertes fournissent plus des **services
+    écosystémiques** que les ruelles grises et les rues ?
+:::
+:::
+
+::: {.column width="50%"}
+![](presentation_imgs/newruelle.jpg){width="60%"}
+:::
+:::
+
+
+
+
+## L'analyse des bénéfices
+
+![](presentation_imgs/analysis_model.png){fig-align="center"}
+
+::: notes
+-   De répondre à nos questions, on a enchantillonné des données
+    écologiques dans les ruelles vertes de deux villes: Montréal et
+    Trois-Rivières.
+-   À Montréal on a enchantilloné les ruelles vertes à seulement une
+    arrondissement -- Villeray Saint Michel Parc Extension. À TR, le
+    programme des ruelles vertes est plus neuf donc elle a 13 ruelles
+    vertes en totale, et on a enchantillonné toutes.
+-   À chaque ville, on a enchantilloné des ruelles vertes, des ruelles
+    traditionelles, et des segments de rue avoisinné
+-   À chaque site, on a fait des mesures écologique, comme le
+    température de l'air, la complexité de la végétation, une inventaire
+    des arbres, on a mesuré le présence des lucioles et nos
+    collaborateurs à UdeM a fait une inventaire total de la végétation
+-   Tous ces mesures a été pris en 2023
+-   Pour nos analyses, on retourne aux deux categories des bénéfices -
+    Premièrement, on va analyser des bénéfices écologiques qui sont
+    fournir par les ruelles vertes - ce catégorie est plus comme un
+    analyse écologique « classique » où on evalue si les ruelles vertes
+    ont plus de la biodiversité avec des mesures comme la presence des
+    lucioles, l'abondance de végétation, etc.
+-   Deuxièment, on va analyser des services écosystémiques fourni par
+    les ruelles vertes
+-   Pour ce catégorie on a utilisé une methodologie interdisciplinaire.
+    Mes collegues à UQAM et Respire a fait des entretiens avec les
+    residents des ruelles vertes
+-   On a lit les transcriptions des entretiens et on a identifié des
+    services écosystémiques le plus importants pour les residents
+-   Et maintenant, on va utiliser la liste des services le plus
+    importants pour les residents de faire nos analyses
+-   Par exemple, le verdissement et l'atténuation de la témperature
+:::
+
+
+##
+
+**Les ruelles vertes présentent des niveaux similaires ou supérieurs de soutien de la biodiversité que les ruelles grises**
+
+![](presentation_imgs/ecobens.png){fig-align="center"}
+
+
+##
+
+**Les ruelles vertes présentent des niveaux similaires ou inférieurs de services écosystémiques que les ruelles grises**
+
+![](presentation_imgs/ecoservs.png){fig-align="center"}
+
+##  {background-image="presentation_imgs/dogwood.png"}
+
+::: columns
+::: {.column width="90%"}
+::: {style="background-color: #c0c0beff; opacity: 80%"}
+**Points à retenir**
+
+-   Les ruelles vertes offrent des bénéfices importants
+
+-   Les différents types de gestion ont des bénéfices différents
+
+    -   Montréal est plus variable mais aussi plus flexible
+    -   TR est moins variable mais moins apte à s'adapter aux besoins de la communauté
+
+-   Actuellement, le soutien de la biodiversité est plus haut que les
+    services écosystémiques dans nos ruelles **pour les bénéfices fournis par les arbres**
+    
+:::
+:::
+:::
+
+::: notes
+- Quelques enseignements tirés de notre travail : 
+- Il est certain que les allées vertes présentent des avantages importants, dont certains ont été mesurés dans notre étude, mais dont beaucoup n'ont pas été mesurés. 
+- Toutes les ruelles n'offrent pas le même niveau ou le même type d'avantages, et une gestion différente produit des résultats différents.
+- Les ruelles de Montréal présentent des niveaux plus variables des avantages que nous avons mesurés, mais aussi parce qu'elles sont dirigées par les résidents, elles sont beaucoup plus adaptables aux besoins de la communauté.
+- En revanche, les ruelles vertes de TR présentent beaucoup moins de variations, mais ne peuvent pas s'adapter aux besoins de leur communauté. 
+- Enfin, à l'heure actuelle, nous constatons que nos allées présentent des niveaux plus élevés de soutien à la biodiversité que de services écosystémiques lorsqu'il s'agit des avantages liés aux arbres. 
+
+:::
