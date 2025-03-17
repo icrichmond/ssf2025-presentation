@@ -55,7 +55,7 @@ nationaux](https://changingclimate.ca/national-issues/fr/)](presentation_imgs/pa
 
 
 
-## Échantillonnage des arbres et données écologiques{.smaller}
+## Échantillonnage des données écologiques{.smaller}
 
 ![](presentation_imgs/studymap.png){fig-align="center"}
 
